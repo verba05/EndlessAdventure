@@ -1,0 +1,44 @@
+[
+    {
+        "attackPower": 10,
+        "body": null,
+        "currentHitPoints": 76,
+        "hand": null,
+        "head": null,
+        "inventory": [],
+        "maxHitPoints": 100,
+        "monstersKilled": 1,
+        "nickname": "IVAN",
+        "numberOfCoins": 11,
+        "numberOfGatheredCoins": 0,
+        "numberOfKilledDemons": 0,
+        "numberOfKilledGoblin": 1,
+        "numberOfKilledKobolds": 0,
+        "numberOfKilledOrks": 0,
+        "numberOfMadeDamage": 22,
+        "numberOfTakenDamage": 24
+    },
+    {
+        "attackPower": 16,
+        "body": {
+            "kind": 4,
+            "price": 50,
+            "value": 8
+        },
+        "currentHitPoints": 21,
+        "hand": null,
+        "head": null,
+        "inventory": [],
+        "maxHitPoints": 100,
+        "monstersKilled": 2,
+        "nickname": "\\",
+        "numberOfCoins": 11,
+        "numberOfGatheredCoins": 0,
+        "numberOfKilledDemons": 0,
+        "numberOfKilledGoblin": 1,
+        "numberOfKilledKobolds": 1,
+        "numberOfKilledOrks": 0,
+        "numberOfMadeDamage": 92,
+        "numberOfTakenDamage": 79
+    }
+]
