@@ -1,4 +1,4 @@
-# Adventurer's Quest - Text-Based RPG
+# Endless Adventure - Text-Based RPG
 
 **Adventurer's Quest** is a C++ text-based RPG where you play as an adventurer battling monsters, collecting loot, and buying items from the shop. The game uses simple number-guessing mechanics for combat and features inventory management, a loot system, and the ability to save and load your progress via JSON files.
 
